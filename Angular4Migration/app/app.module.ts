@@ -9,3 +9,5 @@ angular.module('phonecatApp', [
     'phoneDetail',
     'phoneList'
 ]);
+
+//angular.bootstrap(document.body, ['phonecatApp'], { strictDi: true });
